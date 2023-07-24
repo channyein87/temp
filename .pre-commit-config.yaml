@@ -1,0 +1,5 @@
+repos:
+  -   repo: https://github.com/python-openapi/openapi-spec-validator
+      rev: 0.6.0
+      hooks:
+        -   id: openapi-spec-validator
